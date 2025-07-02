@@ -1,0 +1,4 @@
+user_id,password,otp,verified,needs_password_change
+ypratyaksh59@gmail.com,$2b$12$uywXuhxtf/eDbzUxjHtsXuFEF8EJsC9vEcUAxVQ6PUg1vvWale4jC,False,,
+sandeepbalmiki19sept@gmail.com,$2b$12$pKdNXFu1jqbjRbsPn1OvzebhUctnmURdKne0jNU1cj4HPqT9bpDim,True,975411.0,False
+jayvardhann32@gmail.com,$2b$12$.yOO8gZSdxGWs0xM2emm9.4zLKLhu86TpVmOHDmlAOxpxi.axuyjS,790512,True,True

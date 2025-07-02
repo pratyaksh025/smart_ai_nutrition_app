@@ -1,0 +1,6 @@
+food_item,category,calories,protein,carbs,fats,fiber,vegetarian,meal_type,is_main,ingredients
+Chicken Breast,Non-Veg,165,31.0,0.0,3.6,0.0,False,"lunch,dinner",True,chicken
+Brown Rice,Veg,111,2.6,23.0,0.9,1.8,True,"lunch,dinner",True,rice
+Broccoli,Veg,55,3.7,11.0,0.6,2.6,True,"lunch,dinner",False,broccoli
+Eggs,Non-Veg,155,13.0,1.1,11.0,0.0,False,breakfast,True,eggs
+Salmon,Non-Veg,208,20.0,0.0,13.0,0.0,False,"lunch,dinner",True,salmon
